@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String]()](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String](https://te.legra.ph/file/b0a2d75af47b07748fd0c.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
