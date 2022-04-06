@@ -1,11 +1,11 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 𒆜ֆǟʀǟɖǟ 𒆜 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![𝐒𝐚𝐫𝐚𝐝𝐚🌈™](https://te.legra.ph/file/b1f0534bebf20479d60a5.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
-  <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
+  <b> 𓆩Ꞩⱥɍⱥđⱥ īꞩ ҟⱥⱳⱥҟī'ꞩ ꝑēɍꞩꝋꞥⱥł ƀꝋⱦ𓆪 </b>
 </h6>
 
 <p align="center">
@@ -57,7 +57,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://telegra.ph/file/1ded5ead2f8cc5828897a.jpg)](https://heroku.com/deploy/)
+- [![Deploy](https://te.legra.ph/file/ce07c9eec936e6e2e762a.jpg)](https://heroku.com/deploy/)
 
 ## Deploy Locally
 
@@ -110,7 +110,7 @@
     - Now Run StringSession Given Below:
    
 
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
+[![String]()](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
